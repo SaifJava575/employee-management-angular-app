@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "firstname": "SK",
+      "lastname": "SAIFUDDIN",
+      "birthdate": "2023-06-21",
+      "gender": "m",
+      "education": "10th pass",
+      "company": "Wipro",
+      "jobExperience": 3,
+      "salary": 10,
+      "profile": "Profile-04.jpg",
+      "id": 1
+    },
+    {
+      "firstname": "Rehena",
+      "lastname": "Sultana",
+      "birthdate": "2023-06-28",
+      "gender": "f",
+      "education": "diploma",
+      "company": "TCS",
+      "jobExperience": 2,
+      "salary": 5,
+      "profile": "Profile-05.jpg",
+      "id": 2
+    }
+  ]
+}
